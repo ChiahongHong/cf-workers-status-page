@@ -21,3 +21,11 @@ monitors:
     url: 'https://then.tw/'
     method: GET
     expectStatus: 200
+
+  - id: boshiamy-then-tw
+    name: 嘸蝦米查碼
+    description: '嘸蝦米輸入法查碼程式'
+    url: 'https://boshiamy.then.tw/'
+    method: GET
+    expectStatus: 200
+
